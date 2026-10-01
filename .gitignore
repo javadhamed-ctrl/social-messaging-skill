@@ -1,0 +1,6 @@
+# session/auth material — never commit
+rub_session.rp
+*.rp
+action-*.done
+phone_code_hash*
+rub_auth_state*
